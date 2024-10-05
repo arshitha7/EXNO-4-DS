@@ -24,7 +24,7 @@ The feature selection techniques used are:<br>
 3.Embedded Method<br>
 
 ## CODING AND OUTPUT:
-<h3>Developed By: ARSHITHA MS C</h3>
+<h3>Developed By: ARSHITHA MS</h3>
 <h3>Register Number: 212223240015</h3>
 
 ```
